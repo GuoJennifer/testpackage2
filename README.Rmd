@@ -14,6 +14,7 @@ knitr::opts_chunk$set(
 ```
 
 # testpackage2
+# yippee
 
 <!-- badges: start -->
 [![R-CMD-check](https://github.com/GuoJennifer/testpackage2/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/GuoJennifer/testpackage2/actions/workflows/R-CMD-check.yaml)

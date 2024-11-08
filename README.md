@@ -6,6 +6,8 @@
 <!-- badges: start -->
 
 [![R-CMD-check](https://github.com/GuoJennifer/testpackage2/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/GuoJennifer/testpackage2/actions/workflows/R-CMD-check.yaml)
+[![Codecov test
+coverage](https://codecov.io/gh/GuoJennifer/testpackage2/graph/badge.svg)](https://app.codecov.io/gh/GuoJennifer/testpackage2)
 <!-- badges: end -->
 
 The goal of testpackage2 is to …

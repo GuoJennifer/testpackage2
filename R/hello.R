@@ -13,6 +13,20 @@
 #   Check Package:             'Cmd + Shift + E'
 #   Test Package:              'Cmd + Shift + T'
 
+#'Hello
+#'
+#'prints three rows of strings
+#'
+#'@param x no parameters needed
+#'
+#'@return "Hello, world!" "test" "third line"
+#'
+#'@examples
+#'hello()
+#'
+#'@export
+#'
+
 hello <- function() {
   print("Hello, world!")
   print("test")
